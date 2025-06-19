@@ -6,6 +6,8 @@ This is a simple web application that allows users to test their typing speed. T
 - **Accuracy**: The percentage of correctly typed words.
 - **Mistakes**: The number of incorrect words typed.
 
+## Live Demo: http://jagadheeeeesh.github.io/Typing-Test/
+
 ## Features
 
 - Random paragraph generation.
